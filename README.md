@@ -3,7 +3,9 @@
 
 
 🇧🇷 I live in Brazil
+
 📚 I'm a student of Systems Analysis and Deveoplment
+
 📚 I've been focusing my studies on mobile development
 
 ##
