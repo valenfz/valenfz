@@ -4,8 +4,6 @@
 
 🇧🇷 Student of Systems Analysis and Deveoplment
 
-📚 I've been focusing my studies on mobile development
-
 ##
 
  <div>
